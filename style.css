@@ -18,6 +18,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
+  background-image: url('/imgs/bgpic.png');
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
