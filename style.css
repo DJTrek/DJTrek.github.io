@@ -18,7 +18,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('/imgs/bgpic.png');
+  background-image: url('/imgs/FullSizeRender1.png');
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
@@ -75,10 +75,6 @@ body {
   margin-top: 20px;
   display: flex;
   flex-wrap: wrap;
-  max-width:500px;
-  max-height:500px;
-  width: auto;
-  height: auto;
   justify-content: center;
 }
 
