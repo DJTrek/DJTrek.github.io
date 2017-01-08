@@ -71,7 +71,7 @@ body {
   margin-right: 5px;
 }
 
-/*.gallery {
+.gallery {
   margin-top: 20px;
   display: flex;
   flex-wrap: wrap;
@@ -84,4 +84,6 @@ body {
 
 .gallery-item .thumbnail {
   border: 5px solid #fff;
+  width: 300;
+  height: 200;
 }*/
